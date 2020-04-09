@@ -26,5 +26,6 @@
 <!-- $ npm i -D nodemon -->
 <!-- $ npm i -D husky -->
 <!-- $ npm i -D dotenv    -->
+<!-- git remote add origin https://github.com/fradev540/devflix.git -->
 
 MIT (c) Frank Gaspar
